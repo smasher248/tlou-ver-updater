@@ -1,0 +1,8 @@
+﻿  Source2.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(12,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(27,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(11,6): warning C4101: 'x': unreferenced local variable
+  c main.vcxproj -> C:\Users\Callum Cruickshank\source\repos\c main\x64\Debug\c main.exe

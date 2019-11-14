@@ -1,0 +1,15 @@
+﻿  Source2.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(12,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(27,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(11,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Callum Cruickshank\source\repos\c main\c main\Source2.cpp(133,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+  Generating code
+  2 of 155 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    13 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  c main.vcxproj -> C:\Users\Callum Cruickshank\source\repos\c main\x64\Release\c main.exe
